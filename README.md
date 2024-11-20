@@ -113,10 +113,3 @@ The **Phishing URL Detection System** is an advanced machine learning-based proj
 Contributions are welcome! Please feel free to submit a pull request or open an issue to suggest improvements or report bugs.
 
 ---
-
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This description highlights the project's goals, functionality, and setup, presenting it professionally for a GitHub repository.
