@@ -1,0 +1,8 @@
+pandas==1.5.3
+scikit-learn==1.2.0
+xgboost==1.7.3
+streamlit==1.16.0
+numpy==1.23.5
+tldextract==3.4.0
+beautifulsoup4==4.12.2
+whois==0.9.13
